@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.5.2.102?>
+<State Top="0" Left="0" Width="0" Height="0" WindowState="Normal" xmlns="http://br-automation.co.at/AS/State">
+  <TreeView ID="X20MM4456-Real-4PP065_0571_P74" EditColumn="7" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+    <Columns>
+      <Column Index="0" Width="0" Position="0" />
+      <Column Index="1" Width="0" Position="1" />
+      <Column Index="2" Width="0" Position="2" />
+      <Column Index="3" Width="152" Position="3" />
+      <Column Index="4" Width="0" Position="4" />
+      <Column Index="5" Width="0" Position="5" />
+      <Column Index="6" Width="0" Position="6" />
+      <Column Index="7" Width="200" Position="7" />
+      <Column Index="8" Width="0" Position="8" />
+      <Column Index="9" Width="108" Position="9" />
+      <Column Index="10" Width="114" Position="10" />
+      <Column Index="11" Width="78" Position="11" />
+      <Column Index="12" Width="92" Position="12" />
+      <Column Index="13" Width="118" Position="13" />
+      <Column Index="14" Width="146" Position="14" />
+      <Column Index="15" Width="0" Position="15" />
+      <Column Index="16" Width="0" Position="16" />
+    </Columns>
+    <ExpandedNodes />
+    <SelectedNodes>
+      <SelectedNode Row="21" />
+    </SelectedNodes>
+    <ZoomIndices />
+  </TreeView>
+  <TextEdit ID="C:\Users\admin\Desktop\true_krbo\3\Logical\Libraries\Library\FB_Integrator.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\Users\admin\Desktop\true_krbo\3\Logical\Libraries\Library\FB_Controller.c" CaretLine="56" CaretColumn="31" FirstVisibleLine="10">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\Users\admin\Desktop\true_krbo\3\Logical\Libraries\Library\FB_Axis.c" CaretLine="26" CaretColumn="51" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\Users\admin\Desktop\true_krbo\3\Logical\Libraries\Library\FB_Endswitch.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\Users\admin\Desktop\true_krbo\3\Logical\Libraries\Library\FB_Motor.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\Users\admin\Desktop\true_krbo\3\Logical\SDCAxisCtrl_X\Main.c" CaretLine="34" CaretColumn="13" FirstVisibleLine="19">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\Users\admin\Desktop\true_krbo\3\Logical\Libraries\Library\FB_Direction.c" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\Users\admin\Desktop\true_krbo\3\Temp\Includes\Library.h" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TreeView ID="Logical\AxisInit\AxInitAcp10.ax" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+    <Columns>
+      <Column Index="0" Width="100" Position="0" />
+      <Column Index="1" Width="100" Position="1" />
+      <Column Index="2" Width="50" Position="2" />
+      <Column Index="3" Width="50" Position="3" />
+    </Columns>
+    <ExpandedNodes>
+      <ExpandedNode Row="0" />
+      <ExpandedNode Row="1" />
+      <ExpandedNode Row="2" />
+      <ExpandedNode Row="8" />
+      <ExpandedNode Row="9" />
+      <ExpandedNode Row="11" />
+      <ExpandedNode Row="12" />
+      <ExpandedNode Row="15" />
+      <ExpandedNode Row="16" />
+      <ExpandedNode Row="32" />
+      <ExpandedNode Row="34" />
+      <ExpandedNode Row="41" />
+      <ExpandedNode Row="45" />
+      <ExpandedNode Row="54" />
+      <ExpandedNode Row="63" />
+      <ExpandedNode Row="72" />
+      <ExpandedNode Row="79" />
+      <ExpandedNode Row="86" />
+      <ExpandedNode Row="87" />
+      <ExpandedNode Row="88" />
+      <ExpandedNode Row="91" />
+      <ExpandedNode Row="94" />
+      <ExpandedNode Row="97" />
+      <ExpandedNode Row="100" />
+      <ExpandedNode Row="102" />
+      <ExpandedNode Row="104" />
+      <ExpandedNode Row="105" />
+      <ExpandedNode Row="120" />
+      <ExpandedNode Row="121" />
+      <ExpandedNode Row="128" />
+      <ExpandedNode Row="129" />
+      <ExpandedNode Row="130" />
+    </ExpandedNodes>
+    <SelectedNodes />
+    <ZoomIndices />
+  </TreeView>
+  <TreeView ID="C:\Users\admin\Desktop\true_krbo\3\Logical\Global.var" EditColumn="0" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+    <Columns>
+      <Column Index="0" Width="200" Position="0" />
+      <Column Index="1" Width="100" Position="1" />
+      <Column Index="2" Width="0" Position="2" />
+      <Column Index="3" Width="98" Position="3" />
+      <Column Index="4" Width="50" Position="4" />
+      <Column Index="5" Width="112" Position="5" />
+      <Column Index="6" Width="100" Position="6" />
+      <Column Index="7" Width="200" Position="7" />
+      <Column Index="8" Width="0" Position="8" />
+      <Column Index="9" Width="0" Position="9" />
+      <Column Index="10" Width="0" Position="10" />
+    </Columns>
+    <ExpandedNodes />
+    <SelectedNodes>
+      <SelectedNode Row="21" />
+    </SelectedNodes>
+    <ZoomIndices />
+  </TreeView>
+  <TreeView ID="C:\Users\admin\Desktop\true_krbo\3\Logical\SDCAxisCtrl_X\Variables.var" EditColumn="1" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+    <Columns>
+      <Column Index="0" Width="200" Position="0" />
+      <Column Index="1" Width="100" Position="1" />
+      <Column Index="2" Width="110" Position="2" />
+      <Column Index="3" Width="98" Position="3" />
+      <Column Index="4" Width="72" Position="4" />
+      <Column Index="5" Width="112" Position="5" />
+      <Column Index="6" Width="100" Position="6" />
+      <Column Index="7" Width="200" Position="7" />
+      <Column Index="8" Width="0" Position="8" />
+      <Column Index="9" Width="0" Position="9" />
+      <Column Index="10" Width="0" Position="10" />
+    </Columns>
+    <ExpandedNodes />
+    <SelectedNodes>
+      <SelectedNode Row="0" />
+    </SelectedNodes>
+    <ZoomIndices />
+  </TreeView>
+  <TreeView ID="C:\Users\admin\Desktop\true_krbo\3\Logical\Libraries\Acp10sim\acp10sim.var" EditColumn="1" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+    <Columns>
+      <Column Index="0" Width="200" Position="0" />
+      <Column Index="1" Width="100" Position="1" />
+      <Column Index="2" Width="0" Position="2" />
+      <Column Index="3" Width="98" Position="3" />
+      <Column Index="4" Width="0" Position="4" />
+      <Column Index="5" Width="112" Position="5" />
+      <Column Index="6" Width="100" Position="6" />
+      <Column Index="7" Width="200" Position="7" />
+      <Column Index="8" Width="0" Position="8" />
+      <Column Index="9" Width="0" Position="9" />
+      <Column Index="10" Width="0" Position="10" />
+    </Columns>
+    <ExpandedNodes />
+    <SelectedNodes />
+    <ZoomIndices />
+  </TreeView>
+</State>

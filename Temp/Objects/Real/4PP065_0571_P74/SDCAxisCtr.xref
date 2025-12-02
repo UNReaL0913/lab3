@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Crossref Scope="SDCAxisCtrl_X" AppMod="">
+  <Vars>
+    <Var Name="AxisX_HW.EncIf1_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="13" C="10" A="W" PS=" Ln:13, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DiDoIf_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="14" C="10" A="W" PS=" Ln:14, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DrvIf_Typ" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="15" C="10" A="W" PS=" Ln:15, Col:10" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.EncIf1_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="17" C="17" A="RW" PS=" Ln:17, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DrvIf_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="18" C="17" A="RW" PS=" Ln:18, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_HW.DiDoIf_Name" Scope="Global" Type="SdcHwCfg_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="19" C="17" A="RW" PS=" Ln:19, Col:17" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iEncOK" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="21" C="13" A="W" PS=" Ln:21, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iDrvOK" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="22" C="13" A="W" PS=" Ln:22, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iStatusEnable" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="23" C="13" A="W" PS=" Ln:23, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iDriveReady" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="24" C="14" A="W" PS=" Ln:24, Col:14" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="141" C="18" A="RW" PS=" Ln:141, Col:18" />
+        <Pos L="146" C="18" A="RW" PS=" Ln:146, Col:18" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.k_p" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="26" C="15" A="W" PS=" Ln:26, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.k_i" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="27" C="15" A="W" PS=" Ln:27, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.dt" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="28" C="15" A="W" PS=" Ln:28, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.integrator.dt" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="29" C="26" A="W" PS=" Ln:29, Col:26" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.max_abs_value" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="30" C="15" A="W" PS=" Ln:30, Col:15" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.pwm_period" Scope="Local" Type="UINT">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="31" C="2" A="W" PS=" Ln:31, Col:2" />
+      </File>
+    </Var>
+    <Var Name="to_side" Scope="Global" Type="BOOL">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="33" C="2" A="W" PS=" Ln:33, Col:2" />
+        <Pos L="43" C="7" A="R" PS=" Ln:43, Col:7" />
+        <Pos L="50" C="5" A="W" PS=" Ln:50, Col:5" />
+        <Pos L="58" C="12" A="R" PS=" Ln:58, Col:12" />
+        <Pos L="65" C="5" A="W" PS=" Ln:65, Col:5" />
+        <Pos L="70" C="12" A="R" PS=" Ln:70, Col:12" />
+      </File>
+    </Var>
+    <Var Name="to_mid" Scope="Global" Type="BOOL">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="34" C="2" A="W" PS=" Ln:34, Col:2" />
+        <Pos L="43" C="23" A="R" PS=" Ln:43, Col:23" />
+        <Pos L="51" C="5" A="W" PS=" Ln:51, Col:5" />
+        <Pos L="58" C="28" A="R" PS=" Ln:58, Col:28" />
+        <Pos L="66" C="5" A="W" PS=" Ln:66, Col:5" />
+        <Pos L="70" C="29" A="R" PS=" Ln:70, Col:29" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.enable" Scope="Local" Type="BOOL">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="36" C="2" A="W" PS=" Ln:36, Col:2" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.coil_powered" Scope="Local" Type="BOOL">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="41" C="6" A="R" PS=" Ln:41, Col:6" />
+        <Pos L="133" C="5" A="R" PS=" Ln:133, Col:5" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.oSetPos" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="45" C="15" A="W" PS=" Ln:45, Col:15" />
+        <Pos L="60" C="15" A="W" PS=" Ln:60, Col:15" />
+        <Pos L="74" C="16" A="W" PS=" Ln:74, Col:16" />
+        <Pos L="79" C="16" A="W" PS=" Ln:79, Col:16" />
+        <Pos L="85" C="16" A="W" PS=" Ln:85, Col:16" />
+        <Pos L="145" C="33" A="R" PS=" Ln:145, Col:33" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="55" C="13" A="RW" PS=" Ln:55, Col:13" />
+        <Pos L="68" C="13" A="RW" PS=" Ln:68, Col:13" />
+        <Pos L="89" C="13" A="RW" PS=" Ln:89, Col:13" />
+        <Pos L="137" C="12" A="RW" PS=" Ln:137, Col:12" />
+        <Pos L="143" C="12" A="RW" PS=" Ln:143, Col:12" />
+        <Pos L="149" C="12" A="RW" PS=" Ln:149, Col:12" />
+        <Pos L="165" C="12" A="RW" PS=" Ln:165, Col:12" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.direction" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="46" C="10" A="W" PS=" Ln:46, Col:10" />
+        <Pos L="61" C="10" A="W" PS=" Ln:61, Col:10" />
+        <Pos L="80" C="11" A="W" PS=" Ln:80, Col:11" />
+        <Pos L="86" C="11" A="W" PS=" Ln:86, Col:11" />
+        <Pos L="110" C="12" A="R" PS=" Ln:110, Col:12" />
+        <Pos L="153" C="14" A="R" PS=" Ln:153, Col:14" />
+        <Pos L="160" C="14" A="R" PS=" Ln:160, Col:14" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.ENABLE" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="47" C="10" A="W" PS=" Ln:47, Col:10" />
+        <Pos L="62" C="10" A="W" PS=" Ln:62, Col:10" />
+        <Pos L="75" C="11" A="W" PS=" Ln:75, Col:11" />
+        <Pos L="81" C="11" A="W" PS=" Ln:81, Col:11" />
+        <Pos L="87" C="11" A="W" PS=" Ln:87, Col:11" />
+        <Pos L="94" C="9" A="W" PS=" Ln:94, Col:9" />
+        <Pos L="154" C="11" A="W" PS=" Ln:154, Col:11" />
+        <Pos L="156" C="11" A="W" PS=" Ln:156, Col:11" />
+        <Pos L="161" C="11" A="W" PS=" Ln:161, Col:11" />
+        <Pos L="163" C="11" A="W" PS=" Ln:163, Col:11" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.endswitch_a_reached" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="48" C="14" A="R" PS=" Ln:48, Col:14" />
+        <Pos L="130" C="33" A="R" PS=" Ln:130, Col:33" />
+        <Pos L="158" C="13" A="R" PS=" Ln:158, Col:13" />
+      </File>
+    </Var>
+    <Var Name="global_pos" Scope="Global" Type="INT">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="52" C="5" A="W" PS=" Ln:52, Col:5" />
+        <Pos L="112" C="3" A="W" PS=" Ln:112, Col:3" />
+        <Pos L="115" C="3" A="W" PS=" Ln:115, Col:3" />
+        <Pos L="117" C="6" A="R" PS=" Ln:117, Col:6" />
+        <Pos L="119" C="3" A="W" PS=" Ln:119, Col:3" />
+        <Pos L="121" C="6" A="R" PS=" Ln:121, Col:6" />
+        <Pos L="123" C="3" A="W" PS=" Ln:123, Col:3" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.counter" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="53" C="11" A="W" PS=" Ln:53, Col:11" />
+        <Pos L="63" C="14" A="R" PS=" Ln:63, Col:14" />
+        <Pos L="112" C="21" A="R" PS=" Ln:112, Col:21" />
+        <Pos L="115" C="21" A="R" PS=" Ln:115, Col:21" />
+        <Pos L="127" C="30" A="R" PS=" Ln:127, Col:30" />
+      </File>
+    </Var>
+    <Var Name="forward.go" Scope="Global" Type="FB_Direction">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="72" C="15" A="R" PS=" Ln:72, Col:15" />
+        <Pos L="72" C="46" A="R" PS=" Ln:72, Col:46" />
+        <Pos L="77" C="15" A="R" PS=" Ln:77, Col:15" />
+      </File>
+    </Var>
+    <Var Name="backward.go" Scope="Global" Type="FB_Direction">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="72" C="30" A="R" PS=" Ln:72, Col:30" />
+        <Pos L="72" C="66" A="R" PS=" Ln:72, Col:66" />
+        <Pos L="83" C="21" A="R" PS=" Ln:83, Col:21" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iLifeCnt" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="98" C="13" A="W" PS=" Ln:98, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntDriveEnable" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="99" C="14" A="W" PS=" Ln:99, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntDriveReady" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="100" C="14" A="W" PS=" Ln:100, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntNegHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="101" C="14" A="W" PS=" Ln:101, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntPosHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="102" C="14" A="W" PS=" Ln:102, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iLifeCntReference" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="103" C="14" A="W" PS=" Ln:103, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DrvIf.iLifeCnt" Scope="Global" Type="SdcDrvIf16_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="104" C="13" A="W" PS=" Ln:104, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iActPos" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="127" C="13" A="W" PS=" Ln:127, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_EncIf.iActTime" Scope="Global" Type="SdcEncIf16_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="129" C="13" A="W" PS=" Ln:129, Col:13" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iPosHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="130" C="14" A="W" PS=" Ln:130, Col:14" />
+      </File>
+    </Var>
+    <Var Name="AxisX_DiDoIf.iNegHwEnd" Scope="Global" Type="SdcDiDoIf_typ">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="131" C="14" A="W" PS=" Ln:131, Col:14" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.endswitch_b_reached" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="131" C="33" A="R" PS=" Ln:131, Col:33" />
+        <Pos L="151" C="13" A="R" PS=" Ln:151, Col:13" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.reset_counter" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="135" C="9" A="W" PS=" Ln:135, Col:9" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.coil_pwm_value" Scope="Local" Type="INT">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="139" C="3" A="W" PS=" Ln:139, Col:3" />
+        <Pos L="170" C="3" A="W" PS=" Ln:170, Col:3" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.in" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="142" C="9" A="W" PS=" Ln:142, Col:9" />
+        <Pos L="148" C="9" A="W" PS=" Ln:148, Col:9" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.out" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="142" C="28" A="R" PS=" Ln:142, Col:28" />
+        <Pos L="148" C="28" A="R" PS=" Ln:148, Col:28" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.fb_controller.in" Scope="Local" Type="FB_Controller">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="145" C="16" A="W" PS=" Ln:145, Col:16" />
+      </File>
+    </Var>
+    <Var Name="SDCAxisCtr.axis_X.speed" Scope="Local" Type="FB_Axis">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="145" C="55" A="R" PS=" Ln:145, Col:55" />
+      </File>
+    </Var>
+  </Vars>
+  <Consts>
+    <Const Name="ncSDC_ENC16" Scope="Global" Type="UINT">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="13" C="24" A="R" PS=" Ln:13, Col:24" />
+      </File>
+    </Const>
+    <Const Name="ncSDC_DRVSERVO16" Scope="Global" Type="UINT">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="15" C="23" A="R" PS=" Ln:15, Col:23" />
+      </File>
+    </Const>
+    <Const Name="ncSDC_DIDO" Scope="Global" Type="UINT">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="14" C="24" A="R" PS=" Ln:14, Col:24" />
+      </File>
+    </Const>
+  </Consts>
+  <Funcs>
+    <Func Name="FB_Axis" Lib="">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="55" C="4" PS=" Ln:55, Col:4" />
+        <Pos L="68" C="4" PS=" Ln:68, Col:4" />
+        <Pos L="89" C="4" PS=" Ln:89, Col:4" />
+        <Pos L="137" C="3" PS=" Ln:137, Col:3" />
+        <Pos L="143" C="3" PS=" Ln:143, Col:3" />
+        <Pos L="149" C="3" PS=" Ln:149, Col:3" />
+        <Pos L="165" C="3" PS=" Ln:165, Col:3" />
+      </File>
+    </Func>
+    <Func Name="AsIOTimeCyclicStart" Lib="">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="129" C="30" PS=" Ln:129, Col:30" />
+      </File>
+    </Func>
+    <Func Name="FB_Controller" Lib="">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/SDCAxisCtrl_X/Main.c">
+        <Pos L="141" C="3" PS=" Ln:141, Col:3" />
+        <Pos L="146" C="3" PS=" Ln:146, Col:3" />
+      </File>
+    </Func>
+  </Funcs>
+</Crossref>

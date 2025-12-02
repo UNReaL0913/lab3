@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Crossref Scope="Libraries.Library" AppMod="">
+  <Vars />
+  <Consts />
+  <Funcs>
+    <Func Name="FB_Integrator" Lib="">
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/Libraries/Library/FB_Motor.c">
+        <Pos L="19" C="2" PS=" Ln:19, Col:2" />
+        <Pos L="22" C="2" PS=" Ln:22, Col:2" />
+      </File>
+      <File Name="C:/Users/admin/Desktop/true_krbo/3/Logical/Libraries/Library/FB_Controller.c">
+        <Pos L="55" C="2" PS=" Ln:55, Col:2" />
+      </File>
+    </Func>
+  </Funcs>
+</Crossref>
